@@ -1,0 +1,9 @@
+#background{
+    background-image: linear-gradient(to bottom right, rgb(149, 245, 157), rgb(149, 187, 245));
+}
+
+#title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:100px !important;
+}
+    
